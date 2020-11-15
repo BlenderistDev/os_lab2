@@ -1,0 +1,11 @@
+﻿[Button2]
+Coordinates=10,10,59,58
+
+[Button1]
+Coordinates=100,78,59,58
+
+[]
+Coordinates=163,10,59,58
+Visible=True
+ExplicitSubNodes=Col
+
